@@ -927,7 +927,7 @@ class Ui_MainWindow(object):
         self.langs.setToolTip(_translate("MainWindow", "Set the program language"))
         self.btn_min.setToolTip(_translate("MainWindow", "to make it least"))
         self.btn_min.setText(_translate("MainWindow", "-"))
-        self.label_appName.setText(_translate("MainWindow", "Advanced WhatsApp"))
+        self.label_appName.setText(_translate("MainWindow", "DisparaWhats"))
         self.areaCode.setToolTip(_translate("MainWindow", "<html><head/><body><p>If your listing does not include your country code prefix</p><p>you can enter your country code here to add to all of your listing numbers when loading</p></body></html>"))
         self.areaCode.setPlaceholderText(_translate("MainWindow", "Area Code"))
         self.frame_msg.setToolTip(_translate("MainWindow", "List of numbers that are checked in the program"))

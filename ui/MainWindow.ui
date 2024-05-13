@@ -11,7 +11,7 @@
    </rect>
   </property>
   <property name="windowTitle">
-   <string>WhatsApp Sender</string>
+   <string>DisparaWhats</string>
   </property>
   <property name="layoutDirection">
    <enum>Qt::LeftToRight</enum>
@@ -289,7 +289,7 @@ border-radius: 5px;
 </string>
          </property>
          <property name="text">
-          <string>Advanced WhatsApp</string>
+          <string>DisparaWhats</string>
          </property>
         </widget>
        </item>
